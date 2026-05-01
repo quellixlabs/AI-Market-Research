@@ -180,13 +180,6 @@ Quellix builds AI agents for digital business operations: support, research, CRM
 - Agents with memory, tool use, and approval gates
 - Agent monitoring, logs, and failure handling
 
-## Common Use Cases
-
-- A support agent that checks docs, drafts replies, and routes tickets.
-- A sales agent that researches leads and updates CRM records.
-- An operations agent that reads emails, extracts data, and triggers workflows.
-- A research agent that monitors competitors and creates weekly reports.
-- A database agent that answers internal questions with permission-aware access.
 
 ## Process
 
@@ -233,13 +226,6 @@ This offering is for teams that already collect data but still make decisions re
 - Customer segmentation
 - Forecast dashboards and alert workflows
 
-## Common Use Cases
-
-- Predict which customers are likely to churn.
-- Forecast demand before inventory or staffing problems appear.
-- Score leads by likelihood to convert.
-- Detect unusual transactions, usage patterns, or operational risks.
-- Segment customers for sales, support, or marketing decisions.
 
 ## Process
 
@@ -286,13 +272,6 @@ This offering is strongest for ecommerce, SaaS, marketplaces, content platforms,
 - User segmentation and ranking models
 - A/B testing and optimization loops
 
-## Common Use Cases
-
-- Recommend products based on browsing and purchase behavior.
-- Personalize search results for each user.
-- Suggest the next best action inside a SaaS workflow.
-- Create a personalized "For You" feed.
-- Recommend help articles based on user behavior and account context.
 
 ## Process
 
@@ -339,14 +318,6 @@ This is the enterprise knowledge side of the original **Enterprise Knowledge & D
 - Admin controls for source refresh and exclusions
 - Optional private-cloud or India-hosted deployment
 
-## Common Use Cases
-
-- Internal HR, policy, and SOP search
-- Sales enablement knowledge assistant
-- Support knowledge copilot
-- Employee onboarding assistant
-- Contract or proposal search
-- Technical documentation assistant
 
 ## Process
 
@@ -394,13 +365,6 @@ This is the document processing side of the original **Enterprise Knowledge & Do
 - Redaction and anonymization workflows
 - Human review queues for low-confidence outputs
 
-## Common Use Cases
-
-- Extract vendor, amount, tax, and due-date fields from invoices.
-- Pull renewal dates, clauses, risks, and obligations from contracts.
-- Parse resumes and create candidate records.
-- Convert scanned forms into CRM or HR records.
-- Compare document versions and summarize differences.
 
 ## Process
 
@@ -449,14 +413,6 @@ This should stay as a Quellix service because competitors sell it directly, and 
 - Model routing and fallback logic
 - Audit logs and compliance records
 
-## Common Use Cases
-
-- Move an AI prototype into production.
-- Monitor accuracy, latency, cost, and failures.
-- Add guardrails to an LLM application.
-- Reduce API cost through caching and model routing.
-- Build CI/CD for ML or LLM-powered systems.
-- Create audit trails for regulated AI workflows.
 
 ## Process
 
